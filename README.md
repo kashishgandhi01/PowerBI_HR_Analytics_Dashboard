@@ -1,7 +1,7 @@
 # PowerBI_HR_Analytics_Dashboard
 
 ## Overview
-Welcome to the README file for the HR Analytics Power BI Dashboard! This document provides essential information about the dashboard, its purpose, and the insights it offers to improve employee performance and retention within the organization. **Kindly check the dashboard file uploaded**
+Welcome to the README file for the HR Analytics Power BI Dashboard! This document provides essential information about the dashboard, its purpose, and the insights it offers to improve employee performance and retention within the organization. **Kindly check the dashboard file uploaded.**
 
 
 ## Purpose
